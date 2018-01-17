@@ -2,11 +2,11 @@
     <Source>
         <Name>ruby-redcarpet</Name>
         <Packager>
-            <Name>Bryan T. Meyers</Name>
-            <Email>bmeyers@datadrake.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>MIT</License>
-        <PartOf>programming.perl</PartOf>
+        <PartOf>programming.ruby</PartOf>
         <Summary xml:lang="en">Fast, safe and extensible Markdown to (X)HTML parser.</Summary>
         <Description xml:lang="en">Fast, safe and extensible Markdown to (X)HTML parser.
 </Description>
@@ -17,7 +17,7 @@
         <Summary xml:lang="en">Fast, safe and extensible Markdown to (X)HTML parser.</Summary>
         <Description xml:lang="en">Fast, safe and extensible Markdown to (X)HTML parser.
 </Description>
-        <PartOf>programming.perl</PartOf>
+        <PartOf>programming.ruby</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin</Path>
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
@@ -78,6 +78,7 @@
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/to_html-i.ri</Path>
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/cache.ri</Path>
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/ext/redcarpet/page-Makefile.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/page-COPYING.ri</Path>
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/redcarpet-3.4.0/gem.build_complete</Path>
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/redcarpet-3.4.0/gem_make.out</Path>
             <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/redcarpet-3.4.0/redcarpet.so</Path>
@@ -144,12 +145,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="2">
-            <Date>2017-10-03</Date>
+        <Update release="3">
+            <Date>2018-01-17</Date>
             <Version>3.4.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Bryan T. Meyers</Name>
-            <Email>bmeyers@datadrake.com</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
