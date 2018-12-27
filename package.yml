@@ -1,6 +1,6 @@
 name       : ruby-redcarpet
 version    : 3.4.0
-release    : 3
+release    : 4
 source     :
     - https://rubygems.org/downloads/redcarpet-3.4.0.gem : a7b10a67a2c11d7a1945caa7fbfc2e6c8fcbe4583ff355af9d499319a1f83841
 license    : MIT
@@ -10,7 +10,7 @@ description: |
     Fast, safe and extensible Markdown to (X)HTML parser.
 extract    : no
 builddeps  :
-    - pkgconfig(ruby-2.3)
+    - pkgconfig(ruby-2.6)
 rundeps    :
     - ruby
 install    : |

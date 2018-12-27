@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-redcarpet</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,138 +19,138 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="executable">/usr/bin</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/cache/redcarpet-3.4.0.gem</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Object/cdesc-Object.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/cdesc-CLI.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/options_parser-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/parser_object-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/process-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/render_object-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/cdesc-Markdown.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/render-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/renderer-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Base/cdesc-Base.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Base/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML/cdesc-HTML.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML_TOC/cdesc-HTML_TOC.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML_TOC/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/block_code-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/cdesc-ManPage.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/codespan-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/double_emphasis-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/emphasis-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/header-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/linebreak-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/list-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/list_item-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/normal_text-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/paragraph-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/block_code-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/cdesc-Safe.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/html_escape-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyHTML/cdesc-SmartyHTML.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyPants/cdesc-SmartyPants.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyPants/postprocess-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyPants/render-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/cdesc-StripDown.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/header-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/image-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/link-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/paragraph-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/table-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/table_cell-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/table_row-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/XHTML/cdesc-XHTML.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/XHTML/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/cdesc-Render.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/Redcarpet/cdesc-Redcarpet.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/cdesc-RedcarpetCompat.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/list_to_truthy_hash-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/new-c.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/parse_extensions_and_renderer_options-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/rename_extensions-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/text-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/to_html-i.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/cache.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/ext/redcarpet/page-Makefile.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc/redcarpet-3.4.0/ri/page-COPYING.ri</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/redcarpet-3.4.0/gem.build_complete</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/redcarpet-3.4.0/gem_make.out</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions/x86_64-linux/2.3.0/redcarpet-3.4.0/redcarpet.so</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/COPYING</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/README.markdown</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/bin/redcarpet</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/.RUBYARCHDIR.time</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/Makefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/autolink.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/autolink.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/autolink.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/buffer.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/buffer.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/buffer.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/extconf.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_href_e.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_href_e.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_html_e.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_html_e.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/html.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/html.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/html.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/html_blocks.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/html_smartypants.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/html_smartypants.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/markdown.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/markdown.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/markdown.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_markdown.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_markdown.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_render.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_render.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/redcarpet.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/redcarpet.so</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/stack.c</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/stack.h</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/ext/redcarpet/stack.o</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/lib/redcarpet.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/lib/redcarpet.so</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/lib/redcarpet/cli.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/lib/redcarpet/compat.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/lib/redcarpet/render_man.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/lib/redcarpet/render_strip.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/redcarpet.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/benchmark.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/custom_render_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/fixtures/benchmark.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/html5_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/html_render_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/html_toc_render_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/markdown_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/pathological_inputs_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/redcarpet_bin_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/redcarpet_compat_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/safe_render_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/smarty_html_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/smarty_pants_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/stripdown_render_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/redcarpet-3.4.0/test/test_helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/redcarpet-3.4.0.gemspec</Path>
+            <Path fileType="executable">/usr/bin/redcarpet</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/cache/redcarpet-3.4.0.gem</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Object/cdesc-Object.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/cdesc-CLI.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/options_parser-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/parser_object-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/process-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/CLI/render_object-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/cdesc-Markdown.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/render-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Markdown/renderer-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Base/cdesc-Base.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Base/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML/cdesc-HTML.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML_TOC/cdesc-HTML_TOC.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/HTML_TOC/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/block_code-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/cdesc-ManPage.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/codespan-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/double_emphasis-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/emphasis-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/header-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/linebreak-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/list-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/list_item-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/normal_text-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/ManPage/paragraph-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/block_code-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/cdesc-Safe.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/html_escape-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/Safe/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyHTML/cdesc-SmartyHTML.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyPants/cdesc-SmartyPants.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyPants/postprocess-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/SmartyPants/render-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/cdesc-StripDown.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/header-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/image-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/link-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/paragraph-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/table-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/table_cell-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/StripDown/table_row-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/XHTML/cdesc-XHTML.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/XHTML/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/Render/cdesc-Render.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/Redcarpet/cdesc-Redcarpet.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/cdesc-RedcarpetCompat.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/list_to_truthy_hash-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/new-c.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/parse_extensions_and_renderer_options-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/rename_extensions-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/text-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/RedcarpetCompat/to_html-i.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/cache.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/ext/redcarpet/page-Makefile.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc/redcarpet-3.4.0/ri/page-COPYING.ri</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/redcarpet-3.4.0/gem.build_complete</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/redcarpet-3.4.0/gem_make.out</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions/x86_64-linux/2.6.0/redcarpet-3.4.0/redcarpet.so</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/COPYING</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/README.markdown</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/bin/redcarpet</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/.sitearchdir.time</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/Makefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/autolink.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/autolink.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/autolink.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/buffer.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/buffer.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/buffer.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/extconf.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_href_e.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_href_e.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_html_e.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/houdini_html_e.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/html.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/html.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/html.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/html_blocks.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/html_smartypants.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/html_smartypants.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/markdown.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/markdown.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/markdown.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_markdown.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_markdown.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_render.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/rc_render.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/redcarpet.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/redcarpet.so</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/stack.c</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/stack.h</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/ext/redcarpet/stack.o</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/lib/redcarpet.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/lib/redcarpet.so</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/lib/redcarpet/cli.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/lib/redcarpet/compat.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/lib/redcarpet/render_man.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/lib/redcarpet/render_strip.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/redcarpet.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/benchmark.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/custom_render_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/fixtures/benchmark.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/html5_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/html_render_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/html_toc_render_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/markdown_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/pathological_inputs_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/redcarpet_bin_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/redcarpet_compat_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/safe_render_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/smarty_html_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/smarty_pants_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/stripdown_render_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/redcarpet-3.4.0/test/test_helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/redcarpet-3.4.0.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2018-01-17</Date>
+        <Update release="4">
+            <Date>2018-12-26</Date>
             <Version>3.4.0</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
